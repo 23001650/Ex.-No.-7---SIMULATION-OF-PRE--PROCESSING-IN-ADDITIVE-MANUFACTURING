@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SUNIL KUMAR T
+### Register Number: 23001650
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
